@@ -9,11 +9,11 @@ AUTO_1 Team consists of three people as follows:
 3. Wisnu Anugrah Pratama (DTS ID: 152236035101-482)
 
 Project Reference:
-1. Journal:
+1. Books / Journals:
    * Agrawal, R., & Srikant, R. (1994), FastAlgorithms For Mining Association Rules. In Proc.1994. Proc. International Conference Very Large DataBases (VLDB).
    * Çano, E., Morisio, M. (2019), Hybrid Recommender Systems: A Systematic Literature Review. Intelligent Data Analysis, vol. 21, no. 6, pp. 1487-1524.
    * Richert, W., & Coelho, L. P. (2013), Building Machine Learning Systems with Python. Packt Publishing Ltd.
 2. Online Sources:
+   * Evren Ermis, Association Rule Based Learning Explained. Kaggle. Accessed on: https://www.kaggle.com/code/evrenermis/association-rule-based-learning-explained.
    * Google Developers, Recommendation Systems Courses. Google Machine Learning Education. Accessed on: https://developers.google.com/machine-learning/recommendation.
    * Sebastian Raschka, Association rules generation from frequent itemsets. Github. Accessed on: https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/.
-   * Evren Ermis, Association Rule Based Learning Explained. Kaggle. Accessed on: https://www.kaggle.com/code/evrenermis/association-rule-based-learning-explained.
